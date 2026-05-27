@@ -5,6 +5,9 @@ The integration of Large Language Models (LLMs) into software engineering marks 
 
 ## 2. Quantitative Data Analysis
 *Analyze the impact of AI tools on developer velocity, code quality, and bug rates. Make sure to reference concrete statistical data here.*
+When you look at the actual numbers, it's pretty clear that AI is making a massive difference in how fast developers work, but it also changes where we spend our time. According to the **GitHub Octoverse Report**, developers using AI assistants completed coding tasks about **55% faster** than those working without them. On top of that, a big industry study by **McKinsey & Company** showed that generative AI can cut the time we spend writing code documentation in half, and speeds up everyday coding tasks by 35% to 45%.
+
+But there is a catch. Just because we can write code faster doesn't mean the work is perfect. The **Stack Overflow Developer Survey** found that while over 75% of developers are already using or planning to use AI tools, only about 40% actually trust the answers they get. What this data really tells us is that while AI saves us time on typing out basic syntax, we end up spending that extra time reviewing, testing, and making sure the code actually fits into the project correctly.
 
 ## 3. Comparative Case Studies
 To really see how software engineering is shifting, we have to look at how a traditional development workflow stacks up against an AI-assisted one. In a conventional setup, developers spend a massive chunk of their day writing boilerplate code, debugging local environments by hand, and hunting through documentation or forums to find the right syntax. This means a lot of mental energy goes into low-level coding details, which naturally slows down the time it takes to get from an initial architectural design to actual working software.
@@ -14,5 +17,10 @@ An AI-assisted workflow completely flips this time allocation. With AI tools gen
 ## 4. Key Limitations & Risk Assessment
 *Detail the technical and ethical risks of relying on AI-generated code (e.g., hallucinated libraries, security vulnerabilities, or license compliance issues).*
 
+Even though these tools are incredibly helpful, relying on them too much introduces some pretty serious risks that every computer engineering student and developer needs to watch out for:
+
+1. **AI Hallucinations:** Sometimes LLMs get confused and completely make up libraries, APIs, or software packages that don't even exist. If you just copy and paste this blindly, your project won't compile, or worse, you could accidentally open the door for hackers who register those fake package names to sneak malicious code into your system.
+2. **Security Issues:** AI models learn from public code on the internet, which unfortunately includes a lot of bad or insecure code. Because of this, tools like Copilot can easily suggest code that has hidden security flaws, like making your database vulnerable to SQL injections.
+3. **Licensing and Legal Trouble:** AI tools can occasionally spit out exact copies of open-source code that has strict copyright rules (like GPL licenses). If a company uses that AI-generated code in a private, commercial app without realizing it, they can get hit with major legal issues for license violation.
 ## 5. Conclusion & Strategic Outlook
 *Summarize your findings and share your perspective on how the role of a Software Engineer will evolve over the next few years.*
