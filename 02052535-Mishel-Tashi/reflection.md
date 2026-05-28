@@ -1,0 +1,11 @@
+# Personal Reflection: Navigating the AI Shift
+
+# Personal Reflection: Navigating the AI Shift
+
+Digging into these industry reports completely changed how I look at my education and my future career path. When I first started studying computer engineering, I always assumed that my main goal at university was simply mastering programming syntax, learning how to write code as fast as possible, and memorizing standard data structures. However, looking at the actual data from places like GitHub, McKinsey, and Stack Overflow completely flipped that assumption on its head.
+
+What stuck out to me the most was the massive gap between how many developers are using AI tools versus how many actually trust them. Seeing that over 75% of engineers use these assistants but only 40% trust the output tells a very clear story: code generation is cheap and fast, but code verification is where the real value lies. Reading the GitLab report about how the development bottleneck has shifted entirely into security testing made me realize that writing code quickly isn't a magic fix—it actually creates a mountain of extra work downstream in terms of debugging, auditing, and maintaining quality.
+
+As someone preparing to enter the tech market, this reality is definitely a bit intimidating, but it is also incredibly exciting. It is obvious that junior engineering roles won't center around just cranking out simple boilerplate code anymore, because an AI model can do that in two seconds. The real opportunity for my generation of developers is to step up and become the supervisors of these systems. 
+
+Personally, I plan to adapt by shifting where I focus my mental energy. Instead of just trying to get a block of code to compile, I want to focus heavily on software architecture, code security, and advanced debugging techniques inside VS Code. I want to build a career where I use AI as a high-speed assistant, while relying on my own foundational engineering skills to act as the ultimate gatekeeper for security and stability. This assignment made me realize that core engineering fundamentals aren't outdated because of AI—they are actually more critical now than they have ever been.
